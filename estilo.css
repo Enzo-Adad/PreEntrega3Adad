@@ -1,0 +1,1256 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  
+  body {
+    background-color: fefae0;
+    font-family: "SairaCondensed-SemiBold.ttf"; }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  
+  body {
+    background-color: fefae0;
+    font-family: "SairaCondensed-SemiBold.ttf"; }
+  
+  header h1 {
+    font-family: "SairaCondensed-SemiBold.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: bc6c25;
+    font-size: 80px; }
+  
+  header .sub {
+    font-family: "Sriracha-Regular.ttf";
+    text-align: center;
+    color: dda15e;
+    font-size: 50px;
+    padding: 0px; }
+  
+  header .gif img {
+    width: 100%;
+    height: 80%; }
+  
+  header .logo img {
+    width: 180px;
+    height: 180px;
+    margin-top: -710px;
+    margin-left: 20px;
+    margin-bottom: -80px; }
+  
+  header .logo-menu {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto; }
+  
+  header .navbar-nav {
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    background-color: d4a373;
+    margin-left: 10px;
+    color: white;
+    height: 50px;
+    width: 100%;
+    justify-content: space-evenly; }
+  
+  main h5 {
+    font-family: "PatrickHand-Regular.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: 606c38;
+    font-size: 50px;
+    text-decoration: underline; }
+  
+  main .sub1 {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 35px;
+    text-align: center;
+    color: 283618;
+    border: solid;
+    border-radius: 20%;
+    border-color: 283618;
+    width: 300px;
+    height: 65px;
+    border-style: double;
+    margin-top: 20px;
+    margin-left: 200px; }
+  
+  main .paq {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 25px;
+    text-align: start;
+    text-decoration: none;
+    list-style-position: inside;
+    color: #692d02;
+    background-color: dda15e;
+    border: solid;
+    border-color: dda15e;
+    border-radius: 20px;
+    position: relative;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 500px;
+    height: 190px; }
+  
+  main .sub2 {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 35px;
+    text-align: center;
+    color: 283618;
+    border: solid;
+    border-radius: 20%;
+    border-color: 283618;
+    width: 300px;
+    height: 65px;
+    border-style: double;
+    margin-top: -290px;
+    margin-left: 850px; }
+  
+  main .paq2 {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 25px;
+    text-align: start;
+    text-decoration: none;
+    list-style-position: inside;
+    color: #692d02;
+    background-color: dda15e;
+    border: solid;
+    border-color: dda15e;
+    border-radius: 20px;
+    position: relative;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 750px;
+    width: 500px;
+    height: 190px; }
+  
+  main .sub3 {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 30px;
+    text-align: center;
+    color: 283618;
+    border: solid;
+    border-radius: 20%;
+    border-color: 283618;
+    width: 440px;
+    height: 60px;
+    border-style: double;
+    margin-top: 30px;
+    margin-left: 130px; }
+  
+  main .paq3 {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 25px;
+    text-align: start;
+    text-decoration: none;
+    list-style-position: inside;
+    color: #692d02;
+    background-color: dda15e;
+    border: solid;
+    border-color: dda15e;
+    border-radius: 20px;
+    position: relative;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 500px;
+    height: 240px; }
+  
+  main .sub4 {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 30px;
+    text-align: center;
+    color: 283618;
+    border: solid;
+    border-radius: 20%;
+    border-color: 283618;
+    width: 440px;
+    height: 60px;
+    border-style: double;
+    margin-top: -335px;
+    margin-left: 780px; }
+  
+  main .paq4 {
+    font-family: "PatrickHand-Regular.ttf";
+    font-size: 25px;
+    text-align: start;
+    text-decoration: none;
+    list-style-position: inside;
+    color: #692d02;
+    background-color: dda15e;
+    border: solid;
+    border-color: dda15e;
+    border-radius: 20px;
+    position: relative;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 750px;
+    width: 500px;
+    height: 240px; }
+  
+  main h6 {
+    font-family: "PatrickHand-Regular.ttf";
+    text-align: center;
+    margin-top: 100px;
+    padding: 0px;
+    color: 606c38;
+    font-size: 50px;
+    text-decoration: underline; }
+  
+  main .table {
+    width: 100%;
+    height: 30%;
+    margin-top: 50px;
+    margin-bottom: -200px; }
+    main .table .columnas {
+      font-size: 30px;
+      text-align: center;
+      font-family: "PatrickHand-Regular.ttf";
+      color: #692d02; }
+    main .table .filas {
+      font-size: 25px;
+      text-align: center;
+      font-family: "PatrickHand-Regular.ttf";
+      color: 606c38; }
+  
+  main .negro img {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    right: 20px;
+    top: 550px; }
+  
+  @media screen and (max-width: 768px) {
+    main h5 {
+      font-size: 50px; }
+    main .sub1 {
+      font-size: 30px;
+      width: 290px;
+      height: 60px;
+      margin-left: 235px;
+      margin-top: 30px; }
+    main .paq {
+      margin-left: 130px; }
+    main .sub2 {
+      font-size: 30px;
+      width: 290px;
+      height: 60px;
+      margin-left: 235px;
+      margin-top: 30px; }
+    main .paq2 {
+      margin-left: 130px; }
+    main .sub3 {
+      margin-left: 160px;
+      margin-top: 30px; }
+    main .paq3 {
+      margin-left: 130px; }
+    main .sub4 {
+      margin-left: 160px;
+      margin-top: 30px; }
+    main .paq4 {
+      margin-left: 130px; } }
+  
+  @media screen and (max-width: 576px) {
+    main h5 {
+      font-size: 50px; }
+    main .sub1 {
+      font-size: 30px;
+      width: 290px;
+      height: 60px;
+      margin-left: 140px;
+      margin-top: 30px; }
+    main .paq {
+      margin-left: 35px; }
+    main .sub2 {
+      font-size: 30px;
+      width: 290px;
+      height: 60px;
+      margin-left: 140px;
+      margin-top: 30px; }
+    main .paq2 {
+      margin-left: 35px; }
+    main .sub3 {
+      margin-left: 60px;
+      margin-top: 30px; }
+    main .paq3 {
+      margin-left: 35px; }
+    main .sub4 {
+      margin-left: 60px;
+      margin-top: 30px; }
+    main .paq4 {
+      margin-left: 35px; }
+    main h6 {
+      font-size: 40px; } }
+  
+  footer h3 {
+    color: 606c38;
+    padding: 5px;
+    font-size: 40px;
+    font-family: "Sriracha-Regular.ttf";
+    border-radius: 50%;
+    margin-top: -200px;
+    text-align: center;
+    margin-left: -5px; }
+  
+  footer .scale:hover {
+    transform: scale(1.1, 1.1); }
+  
+  footer .insta img {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .face img {
+    position: absolute;
+    margin-left: 635px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .whats img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .you img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 18px;
+    width: 70px;
+    height: 60px; }
+  
+  footer .a p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    margin-top: 150px;
+    color: dimgray; }
+  
+  footer .b p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer .c p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer h4 {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray;
+    border: solid;
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 620px; }
+  
+  @media screen and (max-width: 768px) {
+    footer h3 {
+      font-size: 30px;
+      margin-top: 400px; }
+    footer .insta img {
+      width: 50px;
+      height: 50px;
+      margin-left: 150px; }
+    footer .face img {
+      width: 50px;
+      height: 50px;
+      margin-left: 350px; }
+    footer .you img {
+      width: 50px;
+      height: 40px;
+      margin-left: 550px; }
+    footer .a p {
+      font-size: 15px; }
+    footer .b p {
+      font-size: 15px; }
+    footer .c p {
+      font-size: 15px; }
+    footer h4 {
+      font-size: 15px;
+      margin-left: 330px; } }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  
+  body {
+    background-color: fefae0;
+    font-family: "SairaCondensed-SemiBold.ttf"; }
+  
+  header h1 {
+    font-family: "SairaCondensed-SemiBold.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: bc6c25;
+    font-size: 80px; }
+  
+  header .sub {
+    font-family: "Sriracha-Regular.ttf";
+    text-align: center;
+    color: dda15e;
+    font-size: 50px;
+    padding: 0px; }
+  
+  header .gif img {
+    width: 100%;
+    height: 80%; }
+  
+  header .logo img {
+    width: 180px;
+    height: 180px;
+    margin-top: -710px;
+    margin-left: 20px;
+    margin-bottom: -80px; }
+  
+  header .logo-menu {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto; }
+  
+  header .navbar-nav {
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    background-color: d4a373;
+    margin-left: 10px;
+    color: white;
+    height: 50px;
+    width: 100%;
+    justify-content: space-evenly; }
+  
+  main .galeria {
+    font-family: "PatrickHand-Regular.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: 606c38;
+    font-size: 50px;
+    text-decoration: underline; }
+  
+  main .carousel-inner {
+    margin-bottom: -200px; }
+  
+  main .negro img {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    right: 20px;
+    top: 550px; }
+  
+  footer h3 {
+    color: 606c38;
+    padding: 5px;
+    font-size: 40px;
+    font-family: "Sriracha-Regular.ttf";
+    border-radius: 50%;
+    margin-top: 300px;
+    text-align: center;
+    margin-left: -5px; }
+  
+  footer .scale:hover {
+    transform: scale(1.1, 1.1); }
+  
+  footer .insta img {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .face img {
+    position: absolute;
+    margin-left: 635px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .whats img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .you img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 18px;
+    width: 70px;
+    height: 60px; }
+  
+  footer .a p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    margin-top: 150px;
+    color: dimgray; }
+  
+  footer .b p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer .c p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer h4 {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray;
+    border: solid;
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 620px; }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  
+  body {
+    background-color: fefae0;
+    font-family: "SairaCondensed-SemiBold.ttf"; }
+  
+  header h1 {
+    font-family: "SairaCondensed-SemiBold.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: bc6c25;
+    font-size: 80px; }
+  
+  header .sub {
+    font-family: "Sriracha-Regular.ttf";
+    text-align: center;
+    color: dda15e;
+    font-size: 50px;
+    padding: 0px; }
+  
+  header .gif img {
+    width: 100%;
+    height: 80%; }
+  
+  header .logo img {
+    width: 180px;
+    height: 180px;
+    margin-top: -710px;
+    margin-left: 20px;
+    margin-bottom: -80px; }
+  
+  header .logo-menu {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto; }
+  
+  header .navbar-nav {
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    background-color: d4a373;
+    margin-left: 10px;
+    color: white;
+    height: 50px;
+    width: 100%;
+    justify-content: space-evenly; }
+  
+  main .contacto {
+    font-family: "Sriracha-Regular.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: 606c38;
+    font-size: 50px;
+    text-decoration: underline; }
+  
+  main .formulario {
+    width: 625px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+    border: 5px solid;
+    border-color: 606c38;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: -200px; }
+    main .formulario .input-group-text {
+      font-size: 15px;
+      width: 150px;
+      height: 50px;
+      margin: 2px;
+      margin-top: 4;
+      background-color: 606c38;
+      border-color: 606c38;
+      color: white; }
+    main .formulario .form-control1 {
+      width: 210px;
+      height: 40px;
+      margin: 10px;
+      padding: 5px;
+      background-color: #e9e9e9;
+      font-size: 15px;
+      font-family: 'Times New Roman', Times, serif;
+      border-color: rgba(255, 255, 255, 0.987); }
+    main .formulario .form-floating-mb-3 {
+      font-size: 15px;
+      width: 150px;
+      height: 50px;
+      margin: 2px;
+      color: white;
+      background-color: 606c38;
+      border-color: 606c38; }
+    main .formulario .form-control2 {
+      width: 429px;
+      height: 40px;
+      margin: -32px;
+      margin-top: 4px;
+      margin-left: 151px;
+      padding: 5px;
+      background-color: #e9e9e9;
+      font-size: 15px;
+      font-family: 'Times New Roman', Times, serif;
+      border-color: white; }
+    main .formulario .form-control3 {
+      width: 578px;
+      height: 100px;
+      margin-top: 55px;
+      border-color: rgba(255, 255, 255, 0); }
+  
+  main .negro img {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    right: 20px;
+    top: 550px; }
+  
+  @media screen and (max-width: 768px) {
+    main .contacto {
+      font-size: 40px; } }
+  
+  @media screen and (max-width: 576px) {
+    main .contacto {
+      font-size: 30px; } }
+  
+  footer h3 {
+    color: 606c38;
+    padding: 5px;
+    font-size: 40px;
+    font-family: "Sriracha-Regular.ttf";
+    border-radius: 50%;
+    margin-top: 300px;
+    text-align: center;
+    margin-left: -5px; }
+  
+  footer .scale:hover {
+    transform: scale(1.1, 1.1); }
+  
+  footer .insta img {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .face img {
+    position: absolute;
+    margin-left: 635px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .whats img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .you img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 18px;
+    width: 70px;
+    height: 60px; }
+  
+  footer .a p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    margin-top: 150px;
+    color: dimgray; }
+  
+  footer .b p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer .c p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer h4 {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray;
+    border: solid;
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 620px; }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  
+  body {
+    background-color: fefae0;
+    font-family: "SairaCondensed-SemiBold.ttf"; }
+  
+  header h1 {
+    font-family: "SairaCondensed-SemiBold.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: bc6c25;
+    font-size: 80px; }
+  
+  header .sub {
+    font-family: "Sriracha-Regular.ttf";
+    text-align: center;
+    color: dda15e;
+    font-size: 50px;
+    padding: 0px; }
+  
+  header .gif img {
+    width: 100%;
+    height: 80%; }
+  
+  header .logo img {
+    width: 180px;
+    height: 180px;
+    margin-top: -710px;
+    margin-left: 20px;
+    margin-bottom: -80px; }
+  
+  header .logo-menu {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto; }
+  
+  header .navbar-nav {
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    background-color: d4a373;
+    margin-left: 10px;
+    color: white;
+    height: 50px;
+    width: 100%;
+    justify-content: space-evenly; }
+  
+  main .ubicacion {
+    font-family: "PatrickHand-Regular.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: 606c38;
+    font-size: 50px;
+    text-decoration: underline; }
+  
+  main .mapa {
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-bottom: -200px; }
+  
+  main .negro img {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    right: 20px;
+    top: 550px; }
+  
+  @media screen and (max-width: 768px) {
+    main .mapa {
+      margin-left: 110px; } }
+  
+  @media screen and (max-width: 576px) {
+    main .mapa {
+      margin-left: 10px; } }
+  
+  footer h3 {
+    color: 606c38;
+    padding: 5px;
+    font-size: 40px;
+    font-family: "Sriracha-Regular.ttf";
+    border-radius: 50%;
+    margin-top: 300px;
+    text-align: center;
+    margin-left: -5px; }
+  
+  footer .scale:hover {
+    transform: scale(1.1, 1.1); }
+  
+  footer .insta img {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .face img {
+    position: absolute;
+    margin-left: 635px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .whats img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .you img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 18px;
+    width: 70px;
+    height: 60px; }
+  
+  footer .a p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    margin-top: 150px;
+    color: dimgray; }
+  
+  footer .b p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer .c p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer h4 {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray;
+    border: solid;
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 620px; }
+  
+  header h1 {
+    font-family: "SairaCondensed-SemiBold.ttf";
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: bc6c25;
+    font-size: 80px; }
+  
+  header .sub {
+    font-family: "Sriracha-Regular.ttf";
+    text-align: center;
+    color: dda15e;
+    font-size: 50px;
+    padding: 0px; }
+  
+  header .gif img {
+    width: 100%;
+    height: 80%; }
+  
+  header .logo img {
+    width: 180px;
+    height: 180px;
+    margin-top: -710px;
+    margin-left: 20px;
+    margin-bottom: -80px; }
+  
+  header .logo-menu {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto; }
+  
+  header .navbar-nav {
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    background-color: d4a373;
+    margin-left: 10px;
+    color: white;
+    height: 50px;
+    width: 100%;
+    justify-content: space-evenly; }
+  
+  @media screen and (max-width: 768px) {
+    header h1 {
+      font-size: 60px; }
+    header .sub {
+      font-size: 30px; }
+    header .logo img {
+      width: 120px;
+      height: 120px;
+      margin-top: -590px;
+      margin-left: 20px;
+      margin-bottom: -80px; }
+    header .logo-menu {
+      width: 70px;
+      height: 70px; }
+    header .navbar-nav {
+      flex-direction: column;
+      height: 300px;
+      width: 100%;
+      justify-content: space-between;
+      text-align: center; } }
+  
+  @media screen and (max-width: 576px) {
+    header h1 {
+      font-size: 50px;
+      margin-left: 70px; }
+    header .sub {
+      font-size: 30px;
+      margin-left: 70px; }
+    header .logo img {
+      width: 100px;
+      height: 100px;
+      margin-top: -460px;
+      margin-left: 20px;
+      margin-bottom: -80px; }
+    header .gif img {
+      width: 100%;
+      height: 60%;
+      margin: 0 auto; }
+    header .logo-menu {
+      width: 70px;
+      height: 70px; }
+    header .navbar-nav {
+      flex-direction: column;
+      height: 300px;
+      width: 100%;
+      justify-content: space-between;
+      text-align: center; } }
+  
+  main h2 {
+    color: black;
+    padding: 5px;
+    font-size: 50px;
+    font-family: "Sriracha-Regular.ttf";
+    border-radius: 50%;
+    margin-top: 310px;
+    position: absolute;
+    text-align: center;
+    margin-left: 510px; }
+  
+  main .circulo {
+    border: solid;
+    background-color: #b0b08070;
+    color: #b0b08017;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 490px; }
+  
+  main .caballo img {
+    width: 100%; }
+  
+  main .caja {
+    margin-top: 20px;
+    background-color: #ab5f29;
+    position: absolute;
+    padding: 30px;
+    border-radius: 20%;
+    font-size: 40px;
+    font-family: "PatrickHand-Regular.ttf";
+    text-align: center;
+    width: 300px;
+    height: 300px; }
+  
+  main .rojo {
+    margin-left: 10px; }
+  
+  main .verde {
+    margin-left: 350px; }
+  
+  main .azul {
+    margin-left: 690px; }
+  
+  main .amarillo {
+    font-size: 32px;
+    text-align: center;
+    margin-left: 1035px;
+    padding: 30px; }
+  
+  main .negro img {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    right: 20px;
+    top: 550px; }
+  
+  main .nosotros {
+    font-family: "Sriracha-Regular.ttf";
+    font-size: 70px;
+    color: 606c38;
+    padding: 5px;
+    text-align: center;
+    margin-top: 400px;
+    margin-bottom: 70px; }
+  
+  main .parrafo1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #4a4949;
+    margin-top: 100px;
+    margin: -100px;
+    padding: 10px;
+    text-align: center; }
+  
+  main .parrafo2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #4a4949;
+    margin-top: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center; }
+  
+  main .parrafo3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #4a4949;
+    margin-top: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center; }
+  
+  main .parrafo4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #4a4949;
+    margin-top: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px; }
+  
+  @media screen and (max-width: 768px) {
+    main h2 {
+      font-size: 40px;
+      margin-left: 250px;
+      margin-top: 215px; }
+    main .circulo {
+      width: 300px;
+      height: 300px;
+      margin-left: 250px;
+      margin-top: 100px; }
+    main .azul {
+      margin-top: 360px;
+      margin-left: 60px; }
+    main .amarillo {
+      margin-top: 360px;
+      margin-left: 400px; }
+    main .rojo {
+      margin-left: 60px; }
+    main .verde {
+      margin-left: 400px; }
+    main .negro img {
+      right: 50px;
+      top: 450px; }
+    main .nosotros {
+      font-size: 60px;
+      margin-top: 800px; } }
+  
+  @media screen and (max-width: 576px) {
+    main h2 {
+      font-size: 35px;
+      margin-left: 160px;
+      margin-top: 180px; }
+    main .circulo {
+      width: 250px;
+      height: 250px;
+      margin-left: 160px;
+      margin-top: 80px; }
+    main .caballo img {
+      width: 100%; }
+    main .caja {
+      width: 250px;
+      height: 250px; }
+    main .azul {
+      margin-top: 300px;
+      margin-left: 20px;
+      font-size: 30px; }
+    main .amarillo {
+      margin-top: 300px;
+      margin-left: 300px;
+      font-size: 25px;
+      text-align: center; }
+    main .rojo {
+      margin-left: 20px;
+      font-size: 30px; }
+    main .verde {
+      margin-left: 300px;
+      font-size: 30px; }
+    main .negro img {
+      right: 30px;
+      top: 460px; }
+    main .nosotros {
+      font-size: 60px;
+      margin-top: 800px; } }
+  
+  footer h3 {
+    color: 606c38;
+    padding: 5px;
+    font-size: 40px;
+    font-family: "Sriracha-Regular.ttf";
+    border-radius: 50%;
+    margin-top: 300px;
+    text-align: center;
+    margin-left: -5px; }
+  
+  footer .scale:hover {
+    transform: scale(1.1, 1.1); }
+  
+  footer .insta img {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .face img {
+    position: absolute;
+    margin-left: 635px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .whats img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px; }
+  
+  footer .you img {
+    position: absolute;
+    margin-left: 865px;
+    margin-top: 18px;
+    width: 70px;
+    height: 60px; }
+  
+  footer .a p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    margin-top: 150px;
+    color: dimgray; }
+  
+  footer .b p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer .c p {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray; }
+  
+  footer h4 {
+    text-align: center;
+    text-decoration: none;
+    text-underline-offset: none;
+    font-size: 20px;
+    font-family: "Sriracha-Regular.ttf";
+    color: dimgray;
+    border: solid;
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 620px; }
+  
+  @media screen and (max-width: 768px) {
+    footer h3 {
+      font-size: 30px; }
+    footer .insta img {
+      width: 50px;
+      height: 50px;
+      margin-left: 150px; }
+    footer .face img {
+      width: 50px;
+      height: 50px;
+      margin-left: 350px; }
+    footer .you img {
+      width: 50px;
+      height: 40px;
+      margin-left: 550px; }
+    footer .a p {
+      font-size: 15px; }
+    footer .b p {
+      font-size: 15px; }
+    footer .c p {
+      font-size: 15px; }
+    footer h4 {
+      font-size: 15px;
+      margin-left: 330px; } }
+  
+  @media screen and (max-width: 576px) {
+    footer h3 {
+      font-size: 30px; }
+    footer .insta img {
+      width: 50px;
+      height: 50px;
+      margin-left: 100px; }
+    footer .face img {
+      width: 50px;
+      height: 50px;
+      margin-left: 260px; }
+    footer .you img {
+      width: 50px;
+      height: 40px;
+      margin-left: 410px; }
+    footer .a p {
+      font-size: 15px; }
+    footer .b p {
+      font-size: 15px; }
+    footer .c p {
+      font-size: 15px; }
+    footer h4 {
+      font-size: 15px;
+      margin-left: 230px; } }
+  
